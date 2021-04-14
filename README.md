@@ -10,6 +10,8 @@ This project seeks to establish the relationship of weather events to the likeli
 
 [Final report](https://docs.google.com/document/d/1XQ8gl-qLqRCllhvkCPSiF7Lv7svK_WlYhrgTpIE-oFQ/edit?usp=sharing)
 
+[Presentation](https://github.com/BarrettNB/Springboard_Capstone_2/blob/master/reports/Flight_weather_events_presentation.pdf)
+
 ## Data Sources
 
 [Weather data](https://www.kaggle.com/sobhanmoosavi/us-weather-events)
